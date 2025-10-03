@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YxngDjin
-- 👀 I’m interested in html, css, tailwind css, js, react and SwiftUI
-- 🌱 I’m currently learning tailwind css, js, react, SwiftUI 
+- 👋 Hi, I’m Dennis Lehmann
+- 👀 I’m interested in html, css, tailwind css, js, react, flutter and SwiftUI
+- 🌱 I’m currently learning tailwind css, react, flutter SwiftUI 
 - 📫 How to reach me dennisl2002@gmx.de
 - 😄 Pronouns: he/him
 
